@@ -9,6 +9,6 @@ var UnminedMapProperties = {
     maxRegionX: 74,
     maxRegionZ: 42,
     worldName: "Community party",
-    background: "",
+    background: "Black",
     markers: new Array()
 }
