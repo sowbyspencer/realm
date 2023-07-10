@@ -5,9 +5,9 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "jpeg",
     minRegionX: -11,
-    minRegionZ: -7,
-    maxRegionX: 11,
-    maxRegionZ: 33,
+    minRegionZ: -8,
+    maxRegionX: 12,
+    maxRegionZ: 34,
     worldName: "Community party",
     background: "Black",
     markers: new Array()
